@@ -37,7 +37,7 @@ body {
   color: black;
 }
 
-.fab:hover {
+.fab:hover, .far:hover {
     opacity: 0.7;
 }
 
